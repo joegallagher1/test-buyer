@@ -1,0 +1,15 @@
+{
+	"appname": "test-buyer",
+	"scope": "FullAccess",
+	"clientid": "A2408DB2-D969-4681-88A9-8328F50AE190",
+	"buyerid": "buyer",
+	"catalogid": "buyer",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
